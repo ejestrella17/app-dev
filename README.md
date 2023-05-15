@@ -18,49 +18,49 @@ My first repository
 4. IP Man
 --------------
 
-| *Series* | The Walking Dead | 11 Seasons |
+| *Series name* The Walking Dead | 11 Seasons |
 | -------- | ---------------- | ---------- |
 | Drama | Horror | Thriller |
 | *Cast* | Andrew Lincoln | Norman Reedus | Melissa McBride |
 | Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive. |
 -------------------------------
-| *Series* | The Rookie | 5 Seasons |
+| *Series name* The Rookie | 5 Seasons |
 | -------- | ---------- | --------- |
 | Action | Crime | Drama |
 | *Cast* | Nathan Fillion | Alyssa Diaz | Richard T. Jones |
 | Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife... |
 -------------------------------
-| *Series* | Friends | 10 Seasons |
+| *Series name* Friends | 10 Seasons |
 | -------- | ------- | ---------- |
 | Comedy | Romance |
 | *Cast* | Jennifer Aniston | Courteney Cox | Lisa Kudrow |
 | Follows the personal and professional lives of six twenty to thirty year-old friends living in the Manhattan borough of New York City. |
 -------------------------------
-| *Series* | The Rings of Power | 1 Season |
+| *Series name* The Rings of Power | 1 Season |
 | -------- | ------------------ | -------- |
 | Action | Adventure | Drama |
 | *Cast* | Morfydd Clark | Ismael Cruz Cordova | Charlie Vickers |
 | Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil... |
 
-| *Movie* | The Lord of the Rings |
+| *Movie name* The Lord of the Rings |
 | ------- | --------------------- |
 | Action | Adventure | Drama |
 | *Cast* | Elijah Wood | Ian McKellen | Orlando Bloom |
 | A meek Hoobit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron. |
 -------------------------------
-| *Movie* | John Wick |
+| *Movie name* John Wick |
 | --------| --------- |
 | Action | Crime | Thriller |
 | *Cast* | Keanu Reeves | Michael Nyqvist | Alfie Allen |
 | An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car. |
 -------------------------------
-| *Movie* | Fast and Furious |
+| *Movie name* Fast and Furious |
 | ------- | ---------------- |
 | Action | Crime | Thriller |
 | *Cast* | Vin Diesel | Paul Walker | Michelle Rodriguez |
 | Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy. |
 -------------------------------
-| *Movie* | IP Man |
+| *Movie name* IP Man |
 | ------- | ------ |
 | Action | Biography | Drama |
 | *Cast* | Donnie Yen | Simon Yam | Siu-Wong Fan |
