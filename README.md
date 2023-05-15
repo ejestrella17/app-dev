@@ -18,7 +18,7 @@ My first repository
 4. IP Man
 --------------
 
-| **SERIES CATALOG** |
+**SERIES CATALOG**
 
 | *Series name* | The Walking Dead (11 Seasons) |
 | ------------- | ----------------------------- |
@@ -33,7 +33,7 @@ My first repository
 | **Description** | Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife... |
 -------------------------------
 | *Series name* | Friends (10 Seasons) |
-| ------------- | ------- | ---------- |
+| ------------- | -------------------- |
 | **Genre** | Comedy,Romance |
 | **Cast** | Jennifer Aniston,Courteney Cox,Lisa Kudrow |
 | **Description** | Follows the personal and professional lives of six twenty to thirty year-old friends living in the Manhattan borough of New York City. |
@@ -44,8 +44,8 @@ My first repository
 | **Cast** | Morfydd Clark,Ismael Cruz Cordova,Charlie Vickers |
 | **Description** | Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil... |
 
-| --------------------- |
-| **MOVIES CATALOG** |
+----------------------
+**MOVIES CATALOG**
 
 | *Movie name* | The Lord of the Rings |
 | ------------ | --------------------- |
